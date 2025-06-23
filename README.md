@@ -21,7 +21,7 @@ A Streamlit application that uses Chatterbox TTS to create personalized audioboo
 
 ```bash
 git clone <repository-url>
-cd habu
+cd u-voice-audio-book
 ```
 
 ### Step 2: Create a virtual environment (recommended)
