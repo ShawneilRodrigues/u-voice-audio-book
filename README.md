@@ -88,6 +88,4 @@ On Windows, you might need to install specific binaries:
 
 See the requirements.txt file for a complete list of dependencies.
 
-## License
 
-[Your License Information]
